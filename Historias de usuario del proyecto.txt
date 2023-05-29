@@ -1,0 +1,21 @@
+Historias de usuario del proyecto
+
+HU 1: Crear un nuevo programa académico
+
+Como administrador, quiero poder crear un nuevo programa académico en el sistema. Debería poder especificar el nombre del programa, la duración, los requisitos de admisión y la descripción del programa.
+
+HU 2: Gestionar cursos en un programa académico
+
+Como administrador, quiero poder gestionar los cursos dentro de un programa académico. Esto incluye la creación, edición y eliminación de cursos. Cada curso debe tener un nombre, una descripción, una duración y una lista de requisitos previos (si los hay).
+
+HU 3: Asignar profesores a los cursos
+
+Como administrador, quiero poder asignar profesores a los cursos dentro de un programa académico. Debería poder ver una lista de profesores disponibles y seleccionar uno para asignarlo a un curso específico. Un profesor solo puede ser asignado a un curso a la vez.
+
+HU 4: Inscribir alumnos en los cursos
+
+Como administrador, quiero poder inscribir alumnos en los cursos dentro de un programa académico. Debería poder buscar alumnos existentes en el sistema y agregarlos a un curso específico. También debe ser posible registrar nuevos alumnos proporcionando su información personal, como nombre, dirección y número de contacto.
+
+HU 5: Generar reportes de programas académicos
+
+Como administrador, quiero poder generar reportes y estadísticas sobre los programas académicos. Debería poder obtener información como la cantidad total de programas académicos, la cantidad de cursos en cada programa, el número de estudiantes inscritos en cada curso y la lista de profesores asignados a cada curso.
